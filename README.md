@@ -12,18 +12,18 @@
 
 <br/>
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
-- 🎓 Estudante de **Tecnologia da Informação**, em formação como desenvolvedor
-- 💻 Foco principal em **Desenvolvimento Frontend**, com interesse em **Mobile**
-- 🚀 Atualmente aprofundando conhecimentos em **React**, **TypeScript** e **Next.js**
-- 🎯 Em busca de uma oportunidade de **estágio em Desenvolvimento de Software**
-- 🛠️ Gosto de aprender na prática, construindo projetos reais e explorando novas tecnologias
-- 📚 Busco evoluir constantemente tanto em habilidades técnicas quanto profissionais
+- Estudante de **Tecnologia da Informação**, em formação como desenvolvedor
+- Foco principal em **Desenvolvimento Frontend**, com interesse em **Mobile**
+- Atualmente aprofundando conhecimentos em **React**, **TypeScript** e **Next.js**
+- Em busca de uma oportunidade de **estágio em Desenvolvimento de Software**
+- Gosto de aprender na prática, construindo projetos reais e explorando novas tecnologias
+- Busco evoluir constantemente tanto em habilidades técnicas quanto profissionais
 
 <br/>
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <table align="center">
   <tr>
@@ -49,27 +49,23 @@
 
 <br/>
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=PedroWebDev-fullstack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="estatísticas do GitHub"/>
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PedroWebDev-fullstack&layout=compact&theme=tokyonight&hide_border=true" alt="linguagens mais usadas"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=PedroWebDev-fullstack&theme=tokyonight&hide_border=true" alt="streak de contribuições"/>
-
 </div>
 
 <br/>
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 Nexus</h3>
+      <h3 align="center">Nexus</h3>
       <p align="center">
         Projeto em desenvolvimento com foco em uma aplicação moderna, utilizando tecnologias do ecossistema JavaScript/TypeScript.
       </p>
@@ -80,11 +76,11 @@
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://github.com/PedroWebDev-fullstack/Nexus">🔗 Repositório</a>
+        <a href="https://github.com/PedroWebDev-fullstack/Nexus">Repositório</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📝 To Do List</h3>
+      <h3 align="center">To Do List</h3>
       <p align="center">
         Aplicação para organização de tarefas, desenvolvida para praticar conceitos de desenvolvimento web e criação de interfaces funcionais.
       </p>
@@ -94,22 +90,22 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
       <p align="center">
-        <a href="https://github.com/PedroWebDev-fullstack">🔗 Ver no GitHub</a>
+        <a href="https://github.com/PedroWebDev-fullstack">Ver no GitHub</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💻 Mais projetos</h3>
+      <h3 align="center">Mais projetos</h3>
       <p align="center">
         Confira meus outros projetos, experimentos e estudos diretamente no meu GitHub.
       </p>
       <p align="center">
-        <a href="https://github.com/PedroWebDev-fullstack?tab=repositories">📂 Ver todos os repositórios</a>
+        <a href="https://github.com/PedroWebDev-fullstack?tab=repositories">Ver todos os repositórios</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📚 Em aprendizado</h3>
+      <h3 align="center">Em aprendizado</h3>
       <p align="center">
         Atualmente focado em evoluir minhas habilidades com <b>React, TypeScript, Next.js, Node.js e React Native</b>.
       </p>
@@ -119,7 +115,7 @@
 
 <br/>
 
-## 📫 Contato
+## Contato
 
 <div align="center">
 
@@ -147,6 +143,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=90&section=footer" width="100%" alt="footer"/>
 
-<sub>Obrigado pela visita! 🚀</sub>
+<sub>Obrigado pela visita.</sub>
 
 </div>
