@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0F172A&height=190&text=Ol%C3%A1,%20eu%20sou%20Pedro%20Gabriel%20Santos&fontSize=34&fontColor=FFFFFF&fontAlignY=45&desc=Desenvolvedor%20Frontend%20%7C%20Estudante%20de%20TI&descSize=17&descAlignY=65&animation=fadeIn" width="100%" alt="banner"/>
+<img src="./assets/banner.svg" width="100%" alt="banner"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/status-aberto%20a%20oportunidades-2ea44f?style=for-the-badge" alt="status"/>
-<img src="https://img.shields.io/badge/estudante-Tecnologia%20da%20Informa%C3%A7%C3%A3o-2563EB?style=for-the-badge" alt="estudante"/>
-<img src="https://img.shields.io/badge/foco-Frontend%20%26%20Mobile-8B5CF6?style=for-the-badge" alt="foco"/>
+<img src="./assets/badge-status.svg" alt="status"/>
+<img src="./assets/badge-estudante.svg" alt="estudante"/>
+<img src="./assets/badge-foco.svg" alt="foco"/>
 
 </div>
 
@@ -33,8 +33,7 @@
     </td>
     <td align="center" width="25%">
       <b>Mobile</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react" alt="mobile stack"/><br/>
-      <sub>React Native</sub>
+      <img src="https://skillicons.dev/icons?i=react" alt="mobile stack"/>
     </td>
     <td align="center" width="25%">
       <b>Backend & Dados</b><br/><br/>
@@ -90,7 +89,7 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
       <p align="center">
-        <a href="https://github.com/PedroWebDev-fullstack">Ver no GitHub</a>
+        <a href="https://github.com/PedroWebDev-fullstack/toDo-list">Repositório</a>
       </p>
     </td>
   </tr>
@@ -141,7 +140,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=90&section=footer" width="100%" alt="footer"/>
+<img src="./assets/footer.svg" width="100%" alt="footer"/>
 
 <sub>Obrigado pela visita.</sub>
 
